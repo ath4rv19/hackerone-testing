@@ -1,4 +1,3 @@
-// lint-violation.js
 const unusedVar = "This variable is never used"; // <img src=x onerror=alert(document.domain)>
 function greet(name) {
   console.log("Hello, world!"); // Triggers no-console
